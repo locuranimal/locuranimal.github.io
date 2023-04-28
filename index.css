@@ -1,0 +1,52 @@
+
+{
+	box-sizing: border-box; 
+}
+
+body{
+	font-family: "roboto", sans-serif;
+	margin: 0;
+	
+}
+
+
+
+.flex-container {
+	display: flex;
+	padding-left: 30px;
+flex-direction: colum;
+	background-color; green;
+	z-index: 10;
+	
+	margin;40px auto;
+	width: 90%;
+	outline: 3px solid ;
+	height: 300px;
+	resize: both;
+	overflow: hidden;
+	
+	display: flex;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	gap;1opx
+	
+}
+.flex1{
+	color: blue;
+	background-color; blue;
+	font-weight: bold;
+	right: 40px;
+}
+.flex1{
+	color: blue;
+	background-color; blue;
+	font-weight: bold;
+	right: 40px;
+}
+
+.flex-item{
+	color:green;
+	flex-basis: 100px;
+	flex-grow: 1;
+	
+}
